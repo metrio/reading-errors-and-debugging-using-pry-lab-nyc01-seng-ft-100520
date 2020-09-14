@@ -13,3 +13,5 @@ def engage
   puts state_log(generate_star_date)
   puts "Greetings crew"
 end
+
+binding.pry
